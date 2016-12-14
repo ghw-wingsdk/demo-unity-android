@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E40C6504-34EE-44B3-62D5-ED8988BB6A83}") = "WASdk4Unity", "Assembly-CSharp.csproj", "{173FD13C-8190-816E-23B9-0CA15C8CFC3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{173FD13C-8190-816E-23B9-0CA15C8CFC3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{173FD13C-8190-816E-23B9-0CA15C8CFC3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{173FD13C-8190-816E-23B9-0CA15C8CFC3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{173FD13C-8190-816E-23B9-0CA15C8CFC3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
